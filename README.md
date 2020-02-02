@@ -1,2 +1,3 @@
 # devRadar
-devRadar 
+
+Projeto resultado da Semana Omnistack10
